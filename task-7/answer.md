@@ -1,11 +1,11 @@
 ## 7. Аналіз Ethernet Frame
 
-**Аналіз Ethernet Frame
+**Аналіз Ethernet Frame**
 - **Source MAC Address** 2c:58:b9:da:0d:02 (Мій ноут)
 - **Destination MAC Address** 1c:61:b4:61:a9:71 (роутер)
 - **EtherType (0x0800 для IPv4)** 0x0800 (IPv4)
 
-**Аналіз IP Header
+**Аналіз IP Header**
 - **Source IP** 192.168.0.188
 - **Destination IP** 8.8.8.8
 - **Protocol (ICMP = 1)** ICMP (1)
